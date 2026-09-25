@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.env
+.streamlit/secrets.toml
+deploy/env.yaml
+models/
